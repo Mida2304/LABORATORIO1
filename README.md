@@ -118,10 +118,11 @@ Su fórmula matemática es la siguiente:
 ### Gráficas obtenidas y SNR
 #### Ruido Gaussiano y Ruido Gaussiano Amplificado
 Este es un tipo de ruido de señal que tiene una función de densidad de probabilidad  igual a la de la distribución normal.
-<img src="https://github.com/Mida2304/LABORATORIO1/blob/master/ruido%20gaussiano.png?raw=true" width="60%" /
->*Ruido Gaussiano.*
 
 <img src="https://github.com/Mida2304/LABORATORIO1/blob/master/ruido%20gaussiano.png?raw=true" width="60%" />
+>*Ruido Gaussiano.*
+
+<img src="https://github.com/Mida2304/LABORATORIO1/blob/master/gausamplificado.png?raw=true" width="60%" />
 
 >*Ruido Gaussiano amplificado.*
 
@@ -133,12 +134,12 @@ Es un sonido breve y agudo que se caracteriza por una presión sonora repentina 
 >*Ruido Impulso.*
 <img src="https://github.com/Mida2304/LABORATORIO1/blob/master/impulso%20amplificado.png" width="60%" />
 
->*SNR Ruido Impulso.*
+>*SNR Ruido Impulso Amplificado .*
 
 
 <img src="https://github.com/Mida2304/LABORATORIO1/blob/master/impulso%20amplificado.png" width="60%" />
 
->*Ruido Impulso Amplificado.*
+>*SNR Ruido Impulso.*
 
 #### Ruido Tipo Artefacto y Ruido Tipo Artefacto Amplificado
 <img src="https://github.com/Mida2304/LABORATORIO1/blob/master/artefacto.png" width="60%" />
