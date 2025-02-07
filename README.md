@@ -26,7 +26,9 @@ Para la realización de este código de programación, se requirió la implement
 ## Cálculo de estadísticos descriptivos
 Teniendo en cuenta lo anteriormente mencionado, se procedió a realizar un cálculo y análisis estadístico descriptivo de dos formas distintas, pero las cuáles nos proporcionan los mismos resultados, puesto que se quiere ver la comparación de ello y, así mismo, familiarizarse con las herramientas que nos brinda Python para el desarrollo de distintos programas como este. La primera forma consiste en hacer uso de los comandos y librerías que proporciona este lenguaje de programación, como lo fueron Matplotlib, numpy, etc; la segunda parte consiste en el cálculo de estos estadísticos realizando la programación manual de cada una de las fórmulas que las conforman. 
 
-A continuación se puede observar cuáles fueron los estadísticos descriptivos que se calcularon con base a la base de datos que modelan la señal EMG escogida:
+[^1^] A continuación se puede observar cuáles fueron los estadísticos descriptivos que se calcularon con base a la base de datos que modelan la señal EMG escogida:
+[^1^]: Ortega, C. (2024, September 23). Estadística descriptiva: Qué Es, Objetivo, Tipos y ejemplos. QuestionPro. https://www.questionpro.com/blog/es/estadistica-descriptiva/ 
+
 ##### •	Media: Medida que se utiliza para resumir un conjunto de datos numéricos, en este caso, los datos recopilados de una señal EMG. Se calcula sumando todos los valores y dividiéndolos entre el número total de valores.
 
 ##### •	Mediana: Medida que se utiliza para indicar el valor que divide un conjunto de datos ordenados en partes iguales. Se calcula ordenando los datos de menor a mayor, su cálculo va a depender si el número de datos es par o impar. Si es impar, este valor se encuentra en el medio de la lista ordenada; si es par, la mediana se calcula como el promedio de los dos valores centrales.
@@ -43,9 +45,9 @@ A continuación se puede observar cuáles fueron los estadísticos descriptivos 
 
 ##### •	Función de probabilidad: Es una función que describe la probabilidad de que ocurra un evento específico en un espacio muestral determinado. 
 
-
-
 ## Contaminación de la señal EMG y cálculo de SNR
+[^2^]“In science and engineering, the signal-to-noise ratio (SNR) is a measure that compares the level of a desired signal to the level of background noise”. 
+[^2^]: Welvaert M, Rosseel Y (2013) On the Definition of Signal-To-Noise Ratio and Contrast-To-Noise Ratio for fMRI Data. PLoS ONE 8(11): e77089. https://doi.org/10.1371/journal.pone.0077089
 
 ## Gráficas obtenidas
 
