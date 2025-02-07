@@ -11,7 +11,6 @@ Posteriormente, una vez seleccionada la señal a analizar, se importaron los dat
 Así mismo, se requiere contaminar la señal con ruido Gaussiano y de Impulso, y con ello realizar el cálculo del SNR (Signal-to-Noise Ratio) de cada uno, esto con el propósito de saber la calidad de la señal.
 
 Para la realización de este código de programación, se requirió la implementación de las siguientes librerías:
-
 ##### •	sys: Módulo que permite el acceso a ciertas variables y funciones específicas que permiten interactuar con el ambiente Python.
 
 ##### •	wfdb: Herramienta diseñada que permite trabajar con señales fisiológicas como señales biomédicas, en este caso como una señal EMG.
