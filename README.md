@@ -123,8 +123,8 @@ Este es un tipo de ruido de señal que tiene una función de densidad de probabi
 
 <img src="https://github.com/Mida2304/LABORATORIO1/blob/master/ruido%20gaussiano.png?raw=true" width="60%" />
 
->*Ruido Gaussiano.*
-https://github.com/Mida2304/LABORATORIO1/blob/master/ruido%20gaussiano.png
+>*Ruido Gaussiano amplificado.*
+
 
 #### Ruido impulso  y Ruido Impulso Amplificado
 Es un sonido breve y agudo que se caracteriza por una presión sonora repentina y de corta duración. 
