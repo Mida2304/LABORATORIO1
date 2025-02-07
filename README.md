@@ -170,8 +170,8 @@ Es un sonido breve y agudo que se caracteriza por una presión sonora repentina 
 
 
 *3. Proceso de análisis:*
-• La señal se descarga y se procesa en Python
-• Todo el análisis se realiza mediante código, lo que permitió evaluar los datos de manera precisa.
+-La señal se descarga y se procesa en Python
+-Todo el análisis se realiza mediante código, lo que permitió evaluar los datos de manera precisa.
 
 ###### - Se carga la señal usando wfdb.rdrecord(), y se extraen los datos de la señal en signal_data.
 ###### - Se creauna replica de la gráfica para observar la señal original utilizando matplotlib, esto con el fin de observar las modificaciones por agregar ruidos.
