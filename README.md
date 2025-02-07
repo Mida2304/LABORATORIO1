@@ -46,8 +46,29 @@ Teniendo en cuenta lo anteriormente mencionado, se procedió a realizar un cálc
 ##### •	Función de probabilidad: Es una función que describe la probabilidad de que ocurra un evento específico en un espacio muestral determinado. 
 
 ## Contaminación de la señal EMG y cálculo de SNR
-[^2^]“In science and engineering, the signal-to-noise ratio (SNR) is a measure that compares the level of a desired signal to the level of background noise”. 
+[^2^]“In science and engineering, the signal-to-noise ratio (SNR) is a measure that compares the level of a desired signal to the level of background noise”. - Welvaert M, Rosseel Y (2013)
 [^2^]: Welvaert M, Rosseel Y (2013) On the Definition of Signal-To-Noise Ratio and Contrast-To-Noise Ratio for fMRI Data. PLoS ONE 8(11): e77089. https://doi.org/10.1371/journal.pone.0077089
+
+El SNR, o mejor conocido por sus siglas en inglés Signal-to-Noise Ratio, o Relación Señal-Ruido, es una medida que se usa en el campo del procesamiento de señales para describir la proporción entre la potencia de la señal útil (lo que se quiere medir o transmitir), y la potencia del ruido, o como la conocemos, las interferencias o distorsiones no deseadas.
+
+Siguiendo este concepto, al fórmula utilizada para su cálculo es la siguiente, y se tiene que se mide en decibelios (dB):
+
+De igual forma, se puede tener en cuenta lo siguiente: 
+##### •	SNR Alto: Cuando un SNR es alto significa que la señal es mucho más fuerte que el ruido, lo cuál nos puede indicar que esta es buena. En otras palabras, al ser el SNR alto implica que la calidad de la señal es alta y más fácil de procesar sin interferencias.
+
+##### •	SNR Bajo: Cuando un SNR es bajo, significa que la señal es muy débil comparada con el ruido, o cuál es algo no adecuado. Esto provoca que la señal se pierda o sea difícil de interpretar puesto que el ruido interfiere mucho con la señal.
+
+Para saber si la calidad de nuestra señal es buena, se procedió a contaminarla con dos tipos de ruidos distintos, uno conocido como el Ruido Gaussiano, y el otro como Ruido de pulso:
+
+##### •	[^3^]Ruido Gaussiano: Es un tipo de ruido o interferencia que sigue una distribución normal o gaussiana, es una distribución de probabilidad que tiene la forma de una curva de campana. El ruido Gaussiano es una señal aleatoria cuyo valor sigue una distribución normal (Gaussiana), en otras palabras, tiene una distribución que se ajusta de forma correcta a la famosa curva de campana.
+
+[^3^]: Ortiz Rangel, Estela, Mejía-Lavalle, Manuel, & Sossa, Humberto. (2017). Filtrado de ruido Gaussiano mediante redes neuronales pulso-acopladas. Computación y Sistemas, 21(2), 381-395. https://doi.org/10.13053/cys-21-2-2742
+
+Su fórmula matemática es la siguiente:
+
+##### •	[^4^]Ruido de impulso: Es un tipo de interferencia de gran amplitud que afecta señales en intervalos impredecibles. Se caracteriza por picos de energía breves y de gran amplitud que generalmente son mucho más altos que el nivel de la señal o el ruido de fondo, y pueden distorsionar significativamente una señal si no se maneja adecuadamente.
+
+[^4^]: Ruido de Impulso. SVANTEK. (2023, September 27). https://svantek.com/es/servicios/ruido-de-impulso/#:~:text=El%20ruido%20de%20impulso%20se,inferior%20a%201%20segundo)%C2%BB. 
 
 ## Gráficas obtenidas
 
