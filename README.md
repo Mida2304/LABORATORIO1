@@ -22,7 +22,6 @@ Para la realización de este código de programación, se requirió la implement
 ##### •	scipy.stats: Parte del paquete SciPy, proporciona una amplia variedad de funciones y herramientas para realizar análisis estadísticos en Python.
 
 # Análisis
-# Análisis
 A continuación se presenta la imagen de EMG con neuropatía, la cual, sera tomada a estudio utilizando la estadistica descriptiva para interpretarla de una forma sencilla.
 <img src="https://github.com/Mida2304/LABORATORIO1/blob/master/EMG_PYTHON.png?raw=true" width="60%" />
 
