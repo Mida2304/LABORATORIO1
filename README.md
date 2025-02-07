@@ -15,7 +15,7 @@ Para la realización de este código de programación, se requirió la implement
 
 ##### •	wfdb: Herramienta diseñada que permite trabajar con señales fisiológicas como señales biomédicas, en este caso como una señal EMG.
 
-##### •	numpy: Proporciona una estrcutura de datos rápida y eficiente para poder trabajar con gran cantidad de funciones.
+##### •	numpy: Proporciona una estructura de datos rápida y eficiente para poder trabajar con gran cantidad de funciones.
 
 ##### •	matplotlib.pyplot: Utilizada para crear gráficos y visualizaciones de datos.
 
@@ -24,6 +24,7 @@ Para la realización de este código de programación, se requirió la implement
 # Análisis
 
 ## Cálculo de estadísticos descriptivos
+
 
 ## Contaminación de la señal EMG y cálculo de SNR
 
