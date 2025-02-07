@@ -24,6 +24,25 @@ Para la realización de este código de programación, se requirió la implement
 # Análisis
 
 ## Cálculo de estadísticos descriptivos
+Teniendo en cuenta lo anteriormente mencionado, se procedió a realizar un cálculo y análisis estadístico descriptivo de dos formas distintas, pero las cuáles nos proporcionan los mismos resultados, puesto que se quiere ver la comparación de ello y, así mismo, familiarizarse con las herramientas que nos brinda Python para el desarrollo de distintos programas como este. La primera forma consiste en hacer uso de los comandos y librerías que proporciona este lenguaje de programación, como lo fueron Matplotlib, numpy, etc; la segunda parte consiste en el cálculo de estos estadísticos realizando la programación manual de cada una de las fórmulas que las conforman. 
+
+A continuación se puede observar cuáles fueron los estadísticos descriptivos que se calcularon con base a la base de datos que modelan la señal EMG escogida:
+##### •	Media: Medida que se utiliza para resumir un conjunto de datos numéricos, en este caso, los datos recopilados de una señal EMG. Se calcula sumando todos los valores y dividiéndolos entre el número total de valores.
+
+##### •	Mediana: Medida que se utiliza para indicar el valor que divide un conjunto de datos ordenados en partes iguales. Se calcula ordenando los datos de menor a mayor, su cálculo va a depender si el número de datos es par o impar. Si es impar, este valor se encuentra en el medio de la lista ordenada; si es par, la mediana se calcula como el promedio de los dos valores centrales.
+
+##### •	Moda: Medida que se refiere al valor que más se repite en un conjunto de datos numéricos, es decir, indica el número o valor que aparece con mayor frecuencia.
+
+##### •	Rango: Medida de dispersión que se utiliza para indicar la diferencia entre el valor máximo o mínimo de un conjunto de datos numéricos. Esto nos permite saber de forma concisa y sencilla la amplitud o extensión de los datos proporcionados. Se calcula haciendo una resta entre el valor máximo y el valor mínimo.
+
+##### •	Desviación estándar: Medida que indica que tan dispersos se encuentran los datos de un conjunto respecto a su media. Esto quiere decir, nos permite divisar y saber cuánto se desvían los valores individuales del conjunto de datos en promedio con respecto a la media.
+
+##### •	Coeficiente de variación: Medida que se utiliza para comparar la variabilidad o dispersión que tienen dos o más conjuntos de datos, sin embargo, su plus es que no depende de las unidades de medida ni del tamaño de los números que la conforman. Se calcula dividiendo el dato de la desviación estándar y la media, y multiplicando por 100.
+
+##### •	Histograma: Es un tipo de gráfico que se usa en estadística para representar la distribución de un conjunto de datos. Nos muestra, mediante un diagrama de barras, la representación de la cantidad de datos que caen dentro de un intervalo específico o rango.
+
+##### •	Función de probabilidad: Es una función que describe la probabilidad de que ocurra un evento específico en un espacio muestral determinado. 
+
 
 
 ## Contaminación de la señal EMG y cálculo de SNR
