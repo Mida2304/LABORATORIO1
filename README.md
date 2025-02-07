@@ -21,3 +21,19 @@ Para la realización de este código de programación, se requirió la implement
 ##### •	matplotlib.pyplot: Utilizada para crear gráficos y visualizaciones de datos.
 
 ##### •	scipy.stats: Parte del paquete SciPy, proporciona una amplia variedad de funciones y herramientas para realizar análisis estadísticos en Python.
+
+# Análisis
+
+## Cálculo de estadísticos descriptivos
+
+## Contaminación de la señal EMG y cálculo de SNR
+
+## Gráficas obtenidas
+
+# Instrucciones
+
+# Requisitos
+
+# Usar
+
+# Información de contacto
