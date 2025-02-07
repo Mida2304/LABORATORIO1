@@ -132,14 +132,15 @@ Es un sonido breve y agudo que se caracteriza por una presión sonora repentina 
 <img src="https://github.com/Mida2304/LABORATORIO1/blob/master/impulso.png?raw=true" width="60%" />
 
 >*Ruido Impulso.*
+
+<img src="https://github.com/Mida2304/LABORATORIO1/blob/master/snrimpulso.png" width="30%" />
+
+>*SNR Ruido Impulso.*
+
 <img src="https://github.com/Mida2304/LABORATORIO1/blob/master/impulso%20amplificado.png" width="60%" />
 
 >*SNR Ruido Impulso Amplificado .*
 
-
-<img src="https://github.com/Mida2304/LABORATORIO1/blob/master/impulso%20amplificado.png" width="60%" />
-
->*SNR Ruido Impulso.*
 
 #### Ruido Tipo Artefacto y Ruido Tipo Artefacto Amplificado
 <img src="https://github.com/Mida2304/LABORATORIO1/blob/master/artefacto.png" width="60%" />
