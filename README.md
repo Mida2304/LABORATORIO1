@@ -26,10 +26,12 @@ A continuación se presenta la imagen de EMG con neuropatía, la cual, sera toma
 <img src="https://github.com/Mida2304/LABORATORIO1/blob/master/EMG_PYTHON.png?raw=true" width="60%" />
 
 >*Señal EMG con neuropatia.*
+
 Posteriormente se contruyo una Interfaz utilizando Pyqt6 de Python, esto para agilizar la obtencion de los datos y brindar un ambiente mas estético.
 
 <img src="https://github.com/Mida2304/LABORATORIO1/blob/master/Interfaz.png?raw=true" width="60%" />
 >*Interfaz grafic del Laboratorio.*
+
 ## Cálculo de estadísticos descriptivos
 Teniendo en cuenta lo anteriormente mencionado, se procedió a realizar un cálculo y análisis estadístico descriptivo de dos formas distintas, pero las cuáles nos proporcionan los mismos resultados, puesto que se quiere ver la comparación de ello y, así mismo, familiarizarse con las herramientas que nos brinda Python para el desarrollo de distintos programas como este. La primera forma consiste en hacer uso de los comandos y librerías que proporciona este lenguaje de programación, como lo fueron Matplotlib, numpy, etc; la segunda parte consiste en el cálculo de estos estadísticos realizando la programación manual de cada una de las fórmulas que las conforman. 
 
@@ -161,16 +163,14 @@ Es un sonido breve y agudo que se caracteriza por una presión sonora repentina 
 - Se crea una interfaz utilizando Pyqt6 para el diseño de la misma.
 - Se establecen los botones y se definen cada uno de los estadisticos, tanto utilizando la libreria numpy como haciendolo de formal larga.
 - Se crean las variables de los ruidos  gaussiano, pulso y ruido tipo artefacto.
+  
 *2. Extracción de datos:*
-
 - Se descargan los datos desde Physionet que es un repositorio de datos de investigación médica de libre acceso.
 - Se se seleccionan los archivos .dat y .hea de la señal EMG en este caso.
 
 
 *3. Proceso de análisis:*
-
-• La señal se descarga y se procesa en Python.
-
+• La señal se descarga y se procesa en Python
 • Todo el análisis se realiza mediante código, lo que permitió evaluar los datos de manera precisa.
 
 ###### - Se carga la señal usando wfdb.rdrecord(), y se extraen los datos de la señal en signal_data.
